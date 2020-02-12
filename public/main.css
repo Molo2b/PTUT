@@ -1,0 +1,46 @@
+body {
+  background-color: #F4F4F4; }
+
+a {
+  text-decoration: none; }
+
+@font-face {
+  font-family: "Akrobat";
+  src: url("/font/Akrobat/Akrobat-regular") format("otf"); }
+
+@font-face {
+  font-family: "Akrobat-Thin";
+  src: url("/font/Akrobat/Akrobat-Thin") format("otf"); }
+
+@font-face {
+  font-family: "Akrobat-SemiBold";
+  src: url("/font/Akrobat/Akrobat-SemiBold") format("otf"); }
+
+@font-face {
+  font-family: "Akrobat-Light";
+  src: url("/font/Akrobat/Akrobat-Light") format("otf"); }
+
+@font-face {
+  font-family: "Akrobat-ExtraLight";
+  src: url("/font/Akrobat/Akrobat-ExtraLight") format("otf"); }
+
+@font-face {
+  font-family: "Akrobat-ExtraBold";
+  src: url("/font/Akrobat/Akrobat-ExtraBold") format("otf"); }
+
+@font-face {
+  font-family: "Akrobat-Bold";
+  src: url("/font/Akrobat/Akrobat-Bold") format("otf"); }
+
+@font-face {
+  font-family: "Akrobat-Black";
+  src: url("/font/Akrobat/Akrobat-Black") format("otf"); }
+
+nav a {
+  opacity: 0.43;
+  font-family: Akrobat;
+  font-size: 25px;
+  font-weight: bold;
+  color: #1c1c1c;
+  text-transform: uppercase; }
+
