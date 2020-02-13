@@ -30,6 +30,26 @@ module.exports = {
                     'sass-loader',
                 ],
             },
+            {
+                test: /\.(png|jpe?g|gif|svg)$/,
+                use: [{
+                    loader: "file-loader",
+                    options: {
+                        outputPath: 'images',
+                        name: '[name].[ext]'
+                    }
+                }]
+            },
+            {
+                test: /\.(eot|ttf|woff|woff2)$/,
+                use: [{
+                    loader: "file-loader",
+                    options: {
+                        outputPath: 'fonts',
+                        name: '[name].[ext]'
+                    }
+                }]
+            }
         ]
     },
 
