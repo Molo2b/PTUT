@@ -3,17 +3,93 @@ body {
     background-color: #F4F4F4!important;
 }
 
-.h2 {
-    font-family: Akrobat-Bold;
-    font-size: 43px;
-    line-height: 1.23;
-    letter-spacing: 3.44px;
-    text-align: left;
-}
-
 .no-gutters {
     padding-right: 0!important;
     padding-left: 0!important;
     margin-right: 0;
     margin-left: 0;
 }
+
+.max-vh-100{
+    max-height: 100vh;
+}
+
+// --------- VARIABLES -----------------
+// --------- COLORS ---------
+$black: #1c1c1c;
+$orange: #fa9648;
+$blue: #7aa5d3;
+$white: #ffffff;
+
+// --------- CLASS -----------------
+// -------------Titre ---------
+h2 {
+    font-family: Akrobat-Bold;
+    font-size: 43px;
+    line-height: 53px;
+    letter-spacing: 0.86px;
+    color: $black;
+}
+
+h3 {
+    font-family: Akrobat-Bold;
+    font-size: 30px;
+    line-height: 37px;
+    letter-spacing: 0.6px;
+    color: $black;
+}
+
+// -------------Texts ---------
+p {
+    font-family: "Lato", sans-serif;
+    font-weight: 300;
+    font-size: 21px;
+    line-height: 33px;
+    letter-spacing: 0.42px;
+    color: $black;
+}
+
+@mixin keyword{
+    font-family: Akrobat-Bold;
+    font-size: 30px;
+    text-align: left;
+    line-height: 33px;
+    letter-spacing: 0.6px;
+}
+
+.keyword-{
+    &dark{
+        @include keyword;
+        color: $black;
+    }
+    &light{
+        @include keyword;
+        color: $white;
+    }
+}
+
+// -------------Links ---------
+.a-{
+    font-family: Akrobat-Bold;
+    font-size: 25px;
+    line-height: 31px;
+    letter-spacing: 0.5px;
+
+    &button {
+        background-color: $blue;
+        color: $white;
+        padding: 50px 18px;
+    }
+
+    &txt {
+        color: $blue;
+
+        :after{
+            content:"+";
+            width: 22px;
+            height: 22px;
+            color: $blue;
+        }
+    }
+}  
+
