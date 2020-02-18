@@ -1,9 +1,19 @@
 // MIXINS AND VAR HERE
 body {
-    background-color: #F4F4F4;
+    background-color: #F4F4F4!important;
 }
 
-a{
-	text-decoration: none;
+.h2 {
+    font-family: Akrobat-Bold;
+    font-size: 43px;
+    line-height: 1.23;
+    letter-spacing: 3.44px;
+    text-align: left;
 }
 
+.no-gutters {
+    padding-right: 0!important;
+    padding-left: 0!important;
+    margin-right: 0;
+    margin-left: 0;
+}
