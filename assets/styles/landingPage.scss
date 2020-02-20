@@ -1,0 +1,21 @@
+.slider-title{
+    text-align: left;
+    padding: 15% 10%;
+    border-style:solid;
+    background: $grey;
+    border-color: rgba(28, 28, 28, 0.2);
+
+    &:nth-child(even) {
+        border-width:0px 1px;
+    }
+
+    &:nth-child(odd){
+        border-width:1px 1px;
+    }
+
+    &:focus{
+        background:$white;
+        outline: none;
+    }
+}
+
