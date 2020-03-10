@@ -42,11 +42,14 @@ h2 {
   text-transform: uppercase; }
 
 h4 {
-  font-family: Akrobat-Bold;
+  font-family: "Akrobat-Bold";
   font-size: 30px;
   line-height: 37px;
   letter-spacing: 0.6px;
   color: #1C1C1C; }
+
+h4 .blue {
+  color: #7AA5D3; }
 
 p {
   font-family: "Lato", sans-serif;
@@ -103,7 +106,7 @@ p {
   letter-spacing: 0.5px; }
   .a-button {
     background-color: #7AA5D3;
-    color: #FFFFFF;
+    color: #FFFFFF !important;
     padding: 8% 10%; }
   .a-txt {
     color: #7AA5D3; }
@@ -167,6 +170,19 @@ nav a {
   font-weight: bold;
   color: #1c1c1c;
   text-transform: uppercase; }
+  nav a .blue {
+    color: #7AA5D3; }
+
+.main-nav {
+  z-index: 1; }
+
+.left-nav {
+  width: 468px;
+  height: 100vh;
+  background: #FFFFFF;
+  position: fixed;
+  top: 0;
+  padding-top: 204px; }
 
 /*!
  * Bootstrap v4.4.1 (https://getbootstrap.com/)

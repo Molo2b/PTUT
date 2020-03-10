@@ -1,10 +1,26 @@
 // NAV HERE
-nav{
-	a {
-	  font-family: Akrobat;
-	  font-size: 25px;
-	  font-weight: bold;
-	  color: #1c1c1c;
-	  text-transform: uppercase;
-	}
+nav {
+    a {
+        font-family: Akrobat;
+        font-size: 25px;
+        font-weight: bold;
+        color: #1c1c1c;
+        text-transform: uppercase;
+        .blue {
+            color: $blue;
+        }
+    }
+}
+
+.main-nav {
+    z-index: 1;
+}
+
+.left-nav {
+    width: 468px;
+    height: 100vh;
+    background: $white;
+    position: fixed;
+    top: 0;
+    padding-top: 204px;
 }
