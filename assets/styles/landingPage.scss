@@ -48,5 +48,29 @@ blockquote::before{
     content: url('../img/quote.svg');
     position: absolute;
     top: -2rem;
-    left: -6rem;
+    left: -7rem;
+}
+
+time{
+    position: absolute;
+    height: 5rem;
+    width: 5rem;
+    right: 0;
+    bottom: 0;
+    transform: translateY(50%);
+    font-weight: 500;
+    text-align: center;
+
+    & span{
+        display: block;
+        transform: translateY(-50%);
+        position: absolute;
+        top: 50%;
+    }
+}
+
+
+cite{
+    font-family: 'Lato';
+    font-weight: 300;
 }
