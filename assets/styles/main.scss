@@ -34,10 +34,19 @@ body {
     max-height: 100vh;
 }
 
+.img-responsive{
+    width: 100%;
+    object-fit: cover;
+    max-height: 75vh;
+}
+
 .background-white {
     background: $white;
 }
 
+.background-blue {
+    background: $blue;
+}
 // --------- CLASS -----------------
 // -------------Titre ---------
 h1 {
@@ -67,7 +76,7 @@ h4 {
     color: $black;
 }
 
-h4 .blue {
+.blue {
     color: $blue;
 }
 
@@ -75,8 +84,7 @@ h4 .blue {
 p {
     font-family: "Lato", sans-serif;
     font-weight: 300;
-    font-size: 21px;
-    line-height: 33px;
+    font-size: 16px;
     letter-spacing: 0.42px;
     color: $black;
 }
@@ -138,7 +146,10 @@ p {
     &button {
         background-color: $blue;
         color: $white!important;
-        padding: 8% 10%;
+        padding: 5% 7%;
+        display: block;
+        text-align: center;
+        width: 75%;
     }
     &txt {
         color: $blue;

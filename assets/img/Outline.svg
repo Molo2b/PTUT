@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="65.703" height="65.702" viewBox="0 0 65.703 65.702">
+    <defs>
+        <style>
+            .prefix__cls-1{fill:#7aa5d3}
+        </style>
+    </defs>
+    <g id="prefix__Outline" transform="translate(-2 -2)">
+        <path id="prefix__Tracé_168" d="M5.318 5.316a1.13 1.13 0 00-.23.361 1.132 1.132 0 00.23 1.194 1.1 1.1 0 001.555-1.555 1.147 1.147 0 00-1.555 0z" class="prefix__cls-1" data-name="Tracé 168" transform="translate(.285 .286)"/>
+        <path id="prefix__Tracé_169" d="M8.679 5.087a1.022 1.022 0 00-.361.23 1.11 1.11 0 000 1.555 1.1 1.1 0 001.873-.777 1.152 1.152 0 00-.318-.777 1.114 1.114 0 00-1.194-.23z" class="prefix__cls-1" data-name="Tracé 169" transform="translate(.57 .286)"/>
+        <path id="prefix__Tracé_170" d="M11.679 5.087a1.13 1.13 0 00-.361.23 1.11 1.11 0 000 1.555 1.265 1.265 0 00.361.23 1.1 1.1 0 00.416.088 1.084 1.084 0 001.1-1.1 1.152 1.152 0 00-.318-.777 1.136 1.136 0 00-1.198-.226z" class="prefix__cls-1" data-name="Tracé 170" transform="translate(.855 .286)"/>
+        <path id="prefix__Rectangle_166" d="M0 0H15V2H0z" class="prefix__cls-1" data-name="Rectangle 166" transform="translate(17 20.702)"/>
+        <path id="prefix__Rectangle_167" d="M0 0H15V3H0z" class="prefix__cls-1" data-name="Rectangle 167" transform="translate(17 26.702)"/>
+        <path id="prefix__Rectangle_168" d="M0 0H20V2H0z" class="prefix__cls-1" data-name="Rectangle 168" transform="translate(17 33.702)"/>
+        <path id="prefix__Rectangle_169" d="M0 0H13V2H0z" class="prefix__cls-1" data-name="Rectangle 169" transform="translate(17 40.702)"/>
+        <path id="prefix__Rectangle_170" d="M0 0H8V2H0z" class="prefix__cls-1" data-name="Rectangle 170" transform="translate(17 46.702)"/>
+        <path id="prefix__Rectangle_171" d="M0 0H6V3H0z" class="prefix__cls-1" data-name="Rectangle 171" transform="translate(17 52.702)"/>
+        <path id="prefix__Tracé_171" d="M63.509 15.14a4.161 4.161 0 00-2.964 1.229l-3.793 3.793V5.285A3.285 3.285 0 0053.467 2H5.285A3.285 3.285 0 002 5.285v59.132A3.285 3.285 0 005.285 67.7h48.182a3.285 3.285 0 003.285-3.285v-32.4l9.721-9.715a4.192 4.192 0 00-2.964-7.157zM4.19 5.285a1.1 1.1 0 011.1-1.1h48.177a1.1 1.1 0 011.1 1.1V8.57H4.19zm50.372 59.132a1.1 1.1 0 01-1.1 1.1H5.285a1.1 1.1 0 01-1.1-1.1V10.76h50.377v11.592l-6.57 6.57v-3.285L36.4 14.045H10.76v48.182h37.231V40.78l6.57-6.57zM28.419 48.5l-2.964 8.893 8.893-2.964 3.147-3.147L45.8 42.97v17.067H12.95v-43.8h21.9v10.95H45.8v3.927L31.566 45.348zm3.147-.05l2.834 2.827-1.235 1.233-4.248 1.416 1.416-4.248zm5.475-30.661L44.253 25h-7.212zm-1.1 31.944L33.114 46.9l25.828-25.831 2.832 2.831zm28.984-28.984l-1.6 1.6-2.835-2.828 1.6-1.6a2 2 0 112.832 2.832z" class="prefix__cls-1" data-name="Tracé 171"/>
+    </g>
+</svg>

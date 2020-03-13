@@ -21,8 +21,16 @@ body {
 .max-vh-100 {
   max-height: 100vh; }
 
+.img-responsive {
+  width: 100%;
+  object-fit: cover;
+  max-height: 75vh; }
+
 .background-white {
   background: #FFFFFF; }
+
+.background-blue {
+  background: #7AA5D3; }
 
 h1 {
   font-family: "Akrobat-Bold";
@@ -48,14 +56,13 @@ h4 {
   letter-spacing: 0.6px;
   color: #1C1C1C; }
 
-h4 .blue {
+.blue {
   color: #7AA5D3; }
 
 p {
   font-family: "Lato", sans-serif;
   font-weight: 300;
-  font-size: 21px;
-  line-height: 33px;
+  font-size: 16px;
   letter-spacing: 0.42px;
   color: #1C1C1C; }
 
@@ -107,7 +114,10 @@ p {
   .a-button {
     background-color: #7AA5D3;
     color: #FFFFFF !important;
-    padding: 8% 10%; }
+    padding: 5% 7%;
+    display: block;
+    text-align: center;
+    width: 75%; }
   .a-txt {
     color: #7AA5D3; }
     .a-txt :after {
@@ -7326,7 +7336,6 @@ a.text-dark:hover, a.text-dark:focus {
 
 .slider-title {
   text-align: left;
-  padding: 15% 10%;
   border-style: solid;
   background: #F4F4F4;
   border-color: rgba(28, 28, 28, 0.2); }
@@ -7337,4 +7346,29 @@ a.text-dark:hover, a.text-dark:focus {
   .slider-title:focus {
     background: #FFFFFF;
     outline: none; }
+
+.max-vh-75 {
+  max-height: 75vh; }
+
+.vh-50 {
+  height: 50vh; }
+
+.iconPlus::after {
+  content: url(images/plus.svg);
+  position: absolute;
+  top: 0;
+  right: 0;
+  transform: translateY(-50%); }
+
+.header-card {
+  display: flex;
+  flex-direction: column;
+  height: 100%;
+  justify-content: space-evenly; }
+
+blockquote::before {
+  content: url(images/quote.svg);
+  position: absolute;
+  top: -2rem;
+  left: -6rem; }
 
