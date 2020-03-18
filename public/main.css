@@ -60,7 +60,7 @@ h2 {
 
 h4 {
   font-family: "Akrobat-Bold";
-  font-size: 30px;
+  font-size: 21px !important;
   line-height: 37px;
   letter-spacing: 0.6px;
   color: #1C1C1C; }
@@ -135,6 +135,23 @@ p {
       height: 22px;
       color: #7AA5D3; }
 
+.white-box {
+  background-color: #FFFFFF;
+  padding-top: 40px;
+  padding-bottom: 40px; }
+
+.team-image {
+  margin-left: -20%; }
+
+.filter {
+  font-family: Akrobat;
+  font-size: 25px;
+  font-weight: bold;
+  color: #1c1c1c; }
+
+.p-nav {
+  padding-top: 180px; }
+
 @font-face {
   font-family: "Akrobat";
   src: url(fonts/Akrobat-Regular.eot) format("eot");
@@ -196,12 +213,11 @@ nav a {
   z-index: 1; }
 
 .left-nav {
-  width: 468px;
-  height: 100vh;
   background: #FFFFFF;
   position: fixed;
   top: 0;
-  padding-top: 204px; }
+  padding-top: 180px;
+  height: 100vh; }
 
 /*!
  * Bootstrap v4.4.1 (https://getbootstrap.com/)

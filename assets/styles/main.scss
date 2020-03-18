@@ -81,7 +81,7 @@ h2 {
 
 h4 {
     font-family: "Akrobat-Bold";
-    font-size: 30px;
+    font-size: 21px !important;
     line-height: 37px;
     letter-spacing: 0.6px;
     color: $black;
@@ -171,4 +171,25 @@ p {
             color: $blue;
         }
     }
+}
+
+.white-box {
+    background-color: $white;
+    padding-top: 40px;
+    padding-bottom: 40px;
+}
+
+.team-image {
+    margin-left: -20%;
+}
+
+.filter{
+    font-family: Akrobat;
+    font-size: 25px;
+    font-weight: bold;
+    color: #1c1c1c;
+}
+
+.p-nav{
+    padding-top: 180px;
 }
