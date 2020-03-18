@@ -9,6 +9,8 @@ $grey: #F4F4F4;
 body {
     background-color: $grey!important;
     text-align: left;
+    max-width: 100vw;
+    overflow-x: hidden;
 }
 
 
@@ -34,11 +36,14 @@ body {
     max-height: 100vh;
 }
 
+.vh-75{
+    height: 75vh;
+}
+
 .img-responsive{
     width: 100%;
     height: 100%;
     object-fit: cover;
-    max-height: 75vh;
 }
 
 .background-white {

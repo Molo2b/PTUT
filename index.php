@@ -114,7 +114,7 @@
             </div>
                 
             <div class="col-7 p-0">
-                <div class="contrainer max-vh-75">
+                <div class="contrainer">
 					<div class="row flex-nowrap">
 						<div clas="col-7">
                             <img class="img-responsive" alt="imageDUENES" src="assets/img/sec2-project.jpg">
@@ -189,37 +189,46 @@
                         <footer> <em class="text-uppercase">Philippe DURAND </em><br><cite>Enseignant chercheur en Odontologie</cite></footer>
                     </blockquote>
                 </div>
+                <div class="bullet-list">
+                    <button class="bullet"></button>
+                    <button class="bullet"></button>
+                    <button class="bullet"></button>
+                </div>
             </div>
         </div>   
     </section>
 
     <section class="container-fluid no-gutters py-5">
-        <div class="row no-gutters">
-            <div class="col-3">
+        <div class="row no-gutters vh-75">
+            <div class="col-3 p-0">
                 <div class="row h-75">
                     <img class="img-responsive" alt="phootographie d'une formation numérique" src="assets/img/article3.jpg">
                 </div>
                 <div class="row h-25 background-white">
-                    <h2>Les formations <br>proposées par duenes</h2>
+                    <h2><span class="hightlight">Les formations </span><br>proposées par duenes</h2>
                 </div>
             </div>
 
-            <div class="col-4">
-                <h4>Les ateliers</h4>
-                <p>Nous proposons des ateliers numériques pour développer vos capacités et connaissances digitales. Ces enseignements dédiés aux professionnels de santé sont un véritable atout et favorise et incite la réflexion entre enseignants sur les évolutions pédagogiques</p>
-                <a class="d-block a-text">En savoir +</a>
-                <a class="d-block a-button">Consulter l'agenda +</a>
+            <div class="col-4 row-cols-1 p-0">
+                <div class="col h-75">
+                    <h4>Ateliers</h4>
+                    <p>Nous proposons des ateliers numériques pour développer vos capacités et connaissances digitales. Ces enseignements dédiés aux professionnels de santé sont un véritable atout et favorise et incite la réflexion entre enseignants sur les évolutions pédagogiques</p>
+                    <a class="d-block a-text">En savoir +</a>
+                </div>
+                <div class="col h-25">
+                    <a class="d-block a-button h-100">Consulter l'agenda +</a>
+                </div>
             </div>
-            <div class="col-5">
-                <div class="row">
-                    <div class="col-12">
+            <div class="col-5 row-cols-1 p-0">
+                <div class="row h-50">
+                    <div class="col">
                         <h4>Préceptorats</h4>
                         <p>Le préceptorat permet de provoquer les rencontres entre les enseignants et les professionnels. Favoriser les nouvelles technologies pour aller vers plus de créativité et décider d’un programme médico-chirurgical opérationnel et innovant. <br>L’objectif est de générer des expériences pédagogiques entre étudiants et enseignants.</p>
                         <a class="a-text">En savoir +</a>
                     </div>
                 </div>
-                <div class="row">
-                    <div class="col-12">
+                <div class="row h-50">
+                    <div class="col h-100">
                         <h4>Séminaires</h4>
                         <p>Nos séminaires offrent différentes conférences, formations et travaux pratiques. Ces derniers donnent la possibilité aux professionnels de santé d’enrichir leurs connaissances et de favoriser l’apprentissage de nouvelles techniques pédagogiques. </p>
                         <a class="a-text">En savoir +</a>
@@ -249,20 +258,23 @@
     </section>
 
     <section class="container-fluid">
-        <div class="row">  
-            <div class="col-7">
-                <div class="contrainer max-vh-100">
+        <div class="row">
+                
+            <div class="col-7 p-0">
+                <div class="contrainer">
 					<div class="row flex-nowrap">
-						<div class="col-6">
+						<div class="col-5 background-blue p-4">
                             <h2> <span class="hightlight">Les + </span></br> de DUENES</h2>
-                            <div>
-                                <p class="keywords-light">Aide</p>
-                                <p class="keywords-light">Conseils</p>
-                                <p class="keywords-light">Suivis</p>
+                            <div class="mt-2">
+                                <div class="d-flex ml-5 my-5"><img class="d-inline" src="assets/img/question.svg"><p class="keywords-light mx-3 my-auto">Aide</p></div>
+                                <div class="d-flex ml-5 my-5"><img class="d-inline" src="assets/img/question.svg"><p class="keywords-light mx-3 my-auto">Conseils</p></div>
+                                <div class="d-flex ml-5 my-5"><img class="d-inline" src="assets/img/question.svg"><p class="keywords-light mx-3 my-auto">Suivis</p></div>
+                                <div class="d-flex ml-5 my-5"><img class="d-inline" src="assets/img/question.svg"><p class="keywords-light mx-3 my-auto">Aide</p></div>
+                                <div class="d-flex ml-5 my-5"><img class="d-inline" src="assets/img/question.svg"><p class="keywords-light mx-3 my-auto">Conseils</p></div>
                             </div>  
 						</div>
-                        <div clas="col-5">
-                            <img class="max-vh-75" alt="imageDUENES" src="assets/img/sec2-project.jpg">
+                        <div clas="col-7">
+                            <img class="img-responsive" alt="imageDUENES" src="assets/img/sec2-project.jpg">
 						</div>
 					</div>
 				</div>
@@ -270,17 +282,17 @@
 
             <div class="col-5">
                 <div class="row h-100 row-cols-1">
-                    <button class="col slider-title">
+                    <button class="col slider-title px-20perc">
                         <h4>Un facilitateur de projets pédagogiques</h4>
-                        <p>Des outils spécifiques au secteur de la santé</p>
+                        <p>Des outils spécifiques au secteur de la santé. Nous proposons des ateliers numériques pour développer vos capacités et connaissances digitales.</p>
                     </button>
-                    <button class="col slider-title">
+                    <button class="col slider-title px-20perc">
                         <h4>Des solutions numériques adaptées</h4>
-                        <p>Nous mettons à votre disposition un large choix de matériels pour répondre au mieux à vos attentes.</p>
+                        <p>Nous mettons à votre disposition un large choix de matériels pour répondre au mieux à vos attentes.  Nous proposons des ateliers numériques et des connaissances digitales.</p>
                     </button>
-                    <button class="col slider-title">
+                    <button class="col slider-title px-20perc">
                         <h4>Des outils spécifiques au secteur de la santé</h4>
-                        <p>Nous apportons une approche moderne et numérique aux métiers de la santé.</p>
+                        <p>Nous apportons une approche moderne et numérique aux métiers de la santé. Je remercie toute l’équipe de DUENES pour leur accompagnement dans mon projet. </p>
                     </button>
                 </div>
             </div>
