@@ -193,3 +193,8 @@ p {
 .p-nav{
     padding-top: 180px;
 }
+
+.dots::after{
+    content:"";
+    position: relative;
+}

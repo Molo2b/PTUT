@@ -4,7 +4,7 @@
 <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <title>DUNS - Equipe</title>
+    <title>DUNS - Article</title>
     <meta name="description" content="Description site DUENES">
     <meta name="keywords" content="mots clef associe a duenes">
     <link rel="stylesheet" type="text/css" href="public/reset.css">
