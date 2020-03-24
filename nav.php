@@ -9,7 +9,7 @@
                 <a class="nav-link" href="DUENES_quiSommesNous.php">DUNS<span class="sr-only">(current)</span></a>
             </li>
             <li class="nav-item">
-                <a class="nav-link" href="#">Formation</a>
+                <a class="nav-link" href="formation_atelier.php">Formation</a>
             </li>
             <li class="nav-item">
                 <a class="nav-link" href="#">Ressource</a>
