@@ -12,7 +12,7 @@
                 <a class="nav-link" href="formation_atelier.php">Formation</a>
             </li>
             <li class="nav-item">
-                <a class="nav-link" href="#">Ressource</a>
+                <a class="nav-link" href="ressources_materiel.php">Ressource</a>
             </li>
             <li class="nav-item">
                 <a class="nav-link" href="#">Expertise</a>
