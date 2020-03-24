@@ -56,8 +56,8 @@
                                 <div class="col-6 p-0">
                                     <img class="img-responsive" src="assets/img/article1.jpg">
                                 </div>
-                                <div class="position-absolute z-index-1">
-                                    <p class="number">6</p>
+                                <div class="z-index-1">
+                                    <p class="number position-absolute background-blue"><span>6</span></p>
                                 </div>
                                 <div class="col-6 background-white p-5">
                                     <h4>Smart touch</h4>
@@ -71,8 +71,8 @@
                                     <h4>TBI</h4>
                                     <p>Le TBI vous permet d’intervenir tactilement et d’enregistrer les modifications directement sur votre ordinateur. Il offre un bon niveau d’interactivité et une meilleure implication des étudiants. </p>
                                 </div>
-                                <div class="position-absolute z-index-1">
-                                    <p class="number">4</p>
+                                <div class="z-index-1">
+                                    <p class="number position-absolute background-blue"><span>4</span></p>
                                 </div>
                                 <div class="col-6 p-0">
                                     <img class="img-responsive" src="assets/img/article1.jpg">
