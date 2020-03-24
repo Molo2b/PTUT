@@ -235,6 +235,36 @@ nav a {
   padding-top: 180px;
   height: 100vh; }
 
+.footer {
+  height: 390px;
+  background-color: #7AA5D3;
+  position: absolute;
+  right: 0; }
+
+footer a,
+footer p {
+  color: #FFFFFF; }
+
+.text {
+  font-family: "Akrobat-Light";
+  font-size: 22px;
+  line-height: 28px;
+  letter-spacing: 0.44px;
+  color: #FFFFFF; }
+
+.lil-text {
+  font-family: "Akrobat-Light";
+  font-size: 20px;
+  line-height: 25px;
+  letter-spacing: 0.4px;
+  color: #FFFFFF; }
+
+.arrow {
+  position: absolute;
+  right: 0;
+  bottom: 0;
+  height: 20%; }
+
 /*!
  * Bootstrap v4.4.1 (https://getbootstrap.com/)
  * Copyright 2011-2019 The Bootstrap Authors
@@ -7477,6 +7507,22 @@ cite {
     font-family: Akrobat-Bold;
     font-size: 30px;
     color: #FFFFFF;
+    display: block;
+    transform: translate(-50%, -50%);
+    position: absolute;
+    top: 50%;
+    left: 50%; }
+
+.download {
+  display: block;
+  height: 5rem;
+  width: 5rem;
+  transform: translate(-50%, 50%);
+  font-weight: 500;
+  text-align: center;
+  bottom: -50%;
+  cursor: pointer; }
+  .download img {
     display: block;
     transform: translate(-50%, -50%);
     position: absolute;

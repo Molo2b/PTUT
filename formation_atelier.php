@@ -107,9 +107,5 @@
             </section>
         </section>
 </body>
-<footer>
-
-<?php include 'footer.php' ?>
-
-</footer>
+<?php include('footer.php'); ?>
 </html>

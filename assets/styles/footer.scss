@@ -1,4 +1,35 @@
+.footer {
+    height: 390px;
+    background-color: $blue;
+    position: absolute;
+    right: 0;
+}
+
 footer a,
 footer p {
     color: $white;
+}
+
+.text {
+    font-family: "Akrobat-Light";
+    font-size: 22px;
+    line-height: 28px;
+    letter-spacing: 0.44px;
+    color: $white;
+}
+
+.lil-text {
+    font-family: "Akrobat-Light";
+    font-size: 20px;
+    line-height: 25px;
+    letter-spacing: 0.4px;
+    color: $white;
+}
+
+.arrow {
+    position: absolute;
+    right: 0;
+    bottom: 0;
+    height: 20%;
+    ;
 }

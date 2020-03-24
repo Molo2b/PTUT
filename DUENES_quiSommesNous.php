@@ -50,9 +50,5 @@ projets pédagogiques et numériques dans ce domaine.</p>
             </div>
         </section>
 </body>
-<footer>
-
-<?php include 'footer.php' ?>
-
-</footer>
+<?php include('footer.php'); ?>
 </html>
