@@ -27,7 +27,9 @@
                         </li>
                         <li class="nav-item">
                             <a class="nav-link blue uppercase" href="action_realisation.php">Réalisation</a>
-                        </li>                      
+                        </li>
+                       
+                        
                     </ul>
                 </nav>
             </div>
@@ -40,11 +42,11 @@
                         <div class="col-8 d-flex flex-row mb-5">
                             <div class="row">
                                 <div class="col-6 p-0">
-                                    <img class="img-responsive" src="assets/img/article1.jpg" alt="smart touch">
+                                    <img class="img-responsive" src="assets/img/medocs.png" alt="">
                                 </div>
                                 <div class="col-6 background-white p-5">
-                                    <h4>Smart touch</h4>
-                                    <p>Smart-t1ouch est un écran interactif tactile qui fonctionne sans supports supplémentaires et un outil collaboratif puissant pensés pour augmenter l’expérience utilisateur.</p>
+                                    <h4>e-PICIM</h4>
+                                    <p>Smart-touch est un écran interactif tactile qui fonctionne sans supports supplémentaires et un outil collaboratif puissant pensés pour augmenter l’expérience utilisateur.</p>
                                     <a href="#">En savoir +</a>
                                 </div>
                             </div>
@@ -52,22 +54,22 @@
                         <div class="col-8 d-flex flex-row mb-5">
                             <div class="row">
                                 <div class="col-6 background-white p-5">
-                                    <h4>TBI</h4>
+                                    <h4>Carnet numérique</h4>
                                     <p>Le TBI vous permet d’intervenir tactilement et d’enregistrer les modifications directement sur votre ordinateur. Il offre un bon niveau d’interactivité et une meilleure implication des étudiants. </p>
                                     <a href="#">En savoir +</a>
                                 </div>
                                 <div class="col-6 p-0">
-                                    <img class="img-responsive" src="assets/img/article1.jpg" alt="tbi">
+                                    <img class="img-responsive" src="assets/img/eyes.png" alt="">
                                 </div>
                             </div>
                         </div>
                         <div class="col-8 d-flex flex-row mb-5">
                             <div class="row">
                                 <div class="col-6 p-0">
-                                    <img class="img-responsive" src="assets/img/article1.jpg" alt="smart touch">
+                                    <img class="img-responsive" src="assets/img/article1.jpg" alt="">
                                 </div>
                                 <div class="col-6 background-white p-5">
-                                    <h4>Smart touch</h4>
+                                    <h4>Diapos commentés</h4>
                                     <p>Smart-touch est un écran interactif tactile qui fonctionne sans supports supplémentaires et un outil collaboratif puissant pensés pour augmenter l’expérience utilisateur.</p>
                                     <a href="#">En savoir +</a>
                                 </div>
@@ -81,7 +83,7 @@
                                     <a href="#">En savoir +</a>
                                 </div>
                                 <div class="col-6 p-0">
-                                    <img class="img-responsive" src="assets/img/article1.jpg" alt="tbi">
+                                    <img class="img-responsive" src="assets/img/article1.jpg" alt="">
                                 </div>
                             </div>
                         </div>
@@ -90,5 +92,5 @@
             </section>
         </section>
 </body>
-<?php include('footer.php'); ?>
+<?php include 'footer.php' ?>
 </html>

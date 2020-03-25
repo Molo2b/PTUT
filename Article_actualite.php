@@ -23,10 +23,29 @@
                 <nav>
                     <ul>
                         <li class="nav-item active">
-                            <a class="nav-link blue uppercase" href="#">Actualités<span class="sr-only">(current)</span></a>
+                            <a class="nav-link blue uppercase" href="#">Articles<span class="sr-only">(current)</span></a>
+                            <ul class="">
+                                <li class="sub-nav-item">
+                                    <a href="" class="sub-nav-link">Actualité</a>
+                                </li>
+                                <li class="sub-nav-item">
+                                    <a href="" class="sub-nav-link">Colloque</a>
+                                </li>
+                                <li class="sub-nav-item">
+                                    <a href="" class="sub-nav-link">Confrences</a>
+                                </li>
+                                <li class="sub-nav-item">
+                                    <a href="" class="sub-nav-link">Simulation</a>
+                                </li>
+                            </ul>
                         </li>
                         <li class="nav-item">
                             <a class="nav-link blue uppercase" href="#">Publication</a>
+                            <ul class="">
+                                <li class="sub-nav-item">
+                                    <a  href="" class="sub-nav-link">Article scientifique</a>
+                                </li>
+                            </ul>
                         </li>
                     </ul>
                 </nav>
@@ -86,9 +105,9 @@
             </div>
             <div class="row justify-content-center">
                 <div class="col-3 text-center">
-                    <a class="a-txt m-auto blue">1</a>
-                    <a class="a-txt m-auto blue">2</a>
-                    <a class="a-txt m-auto blue">3</a>
+                    <a  href="" class="a-txt m-auto blue">1</a>
+                    <a  href="" class="a-txt m-auto blue">2</a>
+                    <a  href="" class="a-txt m-auto blue">3</a>
                 </div>    
             </div>
         </section>

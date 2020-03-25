@@ -54,11 +54,11 @@
                 <div class="offset-1 col-6">
                     <div class="row pt-4">
                         <div class="col-6 p-3">
-                            <img src="assets/img/cap.svg">
+                            <img alt="" src="assets/img/cap.svg">
                             <h4>Nouvelle approche auprès des étudiants</h4>
                         </div>
                         <div class="col-6 p-3">
-                            <img src="assets/img/desktop.svg">
+                            <img alt="" src="assets/img/desktop.svg">
                             <h4>Une multitude de ressources numériques.</h4>
                         </div>
                     </div>

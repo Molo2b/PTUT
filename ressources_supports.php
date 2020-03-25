@@ -26,24 +26,24 @@
                             <a class="nav-link blue uppercase" href="ressources_materiel.php">Matériels<span class="sr-only">(current)</span></a>
                             <ul class="">
                                 <li class="sub-nav-item">
-                                    <a class="sub-nav-link">Salle Curie</a>
+                                    <a  href="" class="sub-nav-link">Salle Curie</a>
                                 </li>
                                 <li class="sub-nav-item">
-                                    <a class="sub-nav-link">Salle d'enregistrement</a>
+                                    <a  href="" class="sub-nav-link">Salle d'enregistrement</a>
                                 </li>
                                 <li class="sub-nav-item">
-                                    <a class="sub-nav-link">Réalitée augmentée</a>
+                                    <a  href="" class="sub-nav-link">Réalitée augmentée</a>
                                 </li>
                                 <li class="sub-nav-item">
-                                    <a class="sub-nav-link">Simulation</a>
+                                    <a  href="" class="sub-nav-link">Simulation</a>
                                 </li>
                             </ul>
                         </li>
                         <li class="nav-item">
-                            <a class="nav-link blue uppercase" href="#">Outils numériques</a>
+                            <a  href="" class="nav-link blue uppercase" href="#">Outils numériques</a>
                             <ul class="">
                                 <li class="sub-nav-item">
-                                    <a class="sub-nav-link">Logiciel</a>
+                                    <a  href="" class="sub-nav-link">Logiciel</a>
                                 </li>
                             </ul>
                         </li>
@@ -51,7 +51,7 @@
                             <a class="nav-link blue uppercase" href="ressources_supports.php">Supports pédagogiques</a>
                             <ul class="">
                                 <li class="sub-nav-item">
-                                    <a class="sub-nav-link">Diaporama</a>
+                                    <a  href="" class="sub-nav-link">Diaporama</a>
                                 </li>
                             </ul>
                         </li>
@@ -78,7 +78,7 @@
                     <p>Les transmissions représentent un élément clé de la prise en charge pluriprofessionnelle de patients, surtout en milieu hospitalier.</p>
                 </div>
                 <div class="z-index1">
-                    <a class="download position-relative background-blue"><img class="img-responsive p-4" src="assets/img/download.png"></a>
+                    <a  href="" class="download position-relative background-blue"><img class="img-responsive p-4" src="assets/img/download.png"></a>
                 </div>
             </section>
             <section class="row">
@@ -87,7 +87,7 @@
                     <p>Les transmissions représentent un élément clé de la prise en charge pluriprofessionnelle de patients, surtout en milieu hospitalier.</p>
                 </div>
                 <div class="z-index1">
-                    <a class="download position-relative background-blue"><img class="img-responsive p-4" src="assets/img/download.png"></a>
+                    <a  href="" class="download position-relative background-blue"><img class="img-responsive p-4" src="assets/img/download.png" alt=""></a>
                 </div>
             </section>
         </section>

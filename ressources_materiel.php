@@ -78,7 +78,7 @@
                         <div class="col-8 d-flex flex-row mb-5">
                             <div class="row">
                                 <div class="col-6 p-0">
-                                    <img class="img-responsive" src="assets/img/article1.jpg">
+                                    <img class="img-responsive" src="assets/img/article1.jpg" alt="">
                                 </div>
                                 <div class="z-index1">
                                     <p class="number position-absolute background-blue"><span>6</span></p>
@@ -99,7 +99,7 @@
                                     <p class="number position-absolute background-blue"><span>4</span></p>
                                 </div>
                                 <div class="col-6 p-0">
-                                    <img class="img-responsive" src="assets/img/article1.jpg">
+                                    <img class="img-responsive" src="assets/img/article1.jpg" alt="">
                                 </div>
                             </div>
                         </div>

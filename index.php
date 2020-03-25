@@ -19,7 +19,7 @@
 	<header class="container-fluid p-0">
 		<div class="row">
 			<div class="col-5">
-				<img class="w-100 max-vh-100" src="assets/img/headerTab.jpg">
+				<img class="w-100 max-vh-100" src="assets/img/headerTab.jpg" alt="">
 			</div>
 			<div class="col-7 p-nav">
 				<div class="contrainer h-100">
@@ -34,7 +34,7 @@
                                     <img class="p-3" alt="icon simplifiée réservation" src="assets/img/school.svg">
                                     <h4>Réserver une salle</h4>
                                     <p>Utilisez nos salles pour faciliter vos enseignements.</p>
-                                    <a class="a-button m-auto">Je réserve</a>
+                                    <a  href="" class="a-button m-auto">Je réserve</a>
                                 </div>
                             </div>
                         </div>
@@ -44,7 +44,7 @@
                                     <img class="p-3" alt="icon simplifiée réservation" src="assets/img/group.svg">
                                     <h4>S'inscrire aux ateliers</h4>
                                     <p>Des ateliers spécifiques aux outils numériques.</p>
-                                    <a class="a-button m-auto">Je m'inscris</a>
+                                    <a  href="" class="a-button m-auto">Je m'inscris</a>
                                 </div>
                             </div>
                         </div>
@@ -54,7 +54,7 @@
                                     <img class="p-3" alt="icon simplifiée réservation" src="assets/img/Outline.svg"> 
                                     <h4>Lire nos articles</h4>
                                     <p>Découvrez toutes les actualités de DUNS.</p>
-                                    <a class="a-button m-auto">Je m'informe</a>
+                                    <a  href="" class="a-button m-auto">Je m'informe</a>
                                 </div>
                             </div>
 						</div>
@@ -92,11 +92,11 @@
 						<div class="col-5 background-blue p-4">
                             <h2 class="white"> <span class="hightlight">Les + </span></br> de DUENES</h2>
                             <div class="mt-2">
-                                <div class="d-flex ml-5 my-5"><img class="d-inline" src="assets/img/question.svg"><p class="keywords-light mx-3 my-auto">Aide</p></div>
-                                <div class="d-flex ml-5 my-5"><img class="d-inline" src="assets/img/question.svg"><p class="keywords-light mx-3 my-auto">Conseils</p></div>
-                                <div class="d-flex ml-5 my-5"><img class="d-inline" src="assets/img/question.svg"><p class="keywords-light mx-3 my-auto">Suivis</p></div>
-                                <div class="d-flex ml-5 my-5"><img class="d-inline" src="assets/img/question.svg"><p class="keywords-light mx-3 my-auto">Aide</p></div>
-                                <div class="d-flex ml-5 my-5"><img class="d-inline" src="assets/img/question.svg"><p class="keywords-light mx-3 my-auto">Conseils</p></div>
+                                <div class="d-flex ml-5 my-5"><img class="d-inline" src="assets/img/question.svg" alt=""><p class="keywords-light mx-3 my-auto">Aide</p></div>
+                                <div class="d-flex ml-5 my-5"><img class="d-inline" src="assets/img/question.svg" alt=""><p class="keywords-light mx-3 my-auto">Conseils</p></div>
+                                <div class="d-flex ml-5 my-5"><img class="d-inline" src="assets/img/question.svg" alt=""><p class="keywords-light mx-3 my-auto">Suivis</p></div>
+                                <div class="d-flex ml-5 my-5"><img class="d-inline" src="assets/img/question.svg" alt=""><p class="keywords-light mx-3 my-auto">Aide</p></div>
+                                <div class="d-flex ml-5 my-5"><img class="d-inline" src="assets/img/question.svg" alt=""><p class="keywords-light mx-3 my-auto">Conseils</p></div>
                             </div>  
 						</div>
 					</div>
@@ -139,7 +139,7 @@
             </div>
             <div class="row justify-content-center">
                 <div class="col-3 text-center">
-                    <a class="a-button m-auto">Voir tous les articles</a>
+                    <a  href="" class="a-button m-auto">Voir tous les articles</a>
                 </div>    
             </div>
     </section>
@@ -150,7 +150,7 @@
                 <div class="offset-1 col-3 h-75 d-flex flex-column justify-content-around">
                     <h2><span class="hightlight">Des pôles</span> de compétences <br> variés à Votre service </h2>
                     <p>Un projet... Une solution.</p>
-                    <a class="a-button">Découvrir les pôles</a>
+                    <a  href="" class="a-button">Découvrir les pôles</a>
                 </div>
                 <div class="offset-1 col-5 mr-auto">
                     <blockquote class="row">
@@ -183,10 +183,10 @@
                 <div class="col h-75 p-5 border-r">
                     <h4>Ateliers</h4>
                     <p>Nous proposons des ateliers numériques pour développer vos capacités et connaissances digitales. Ces enseignements dédiés aux professionnels de santé sont un véritable atout et favorise et incite la réflexion entre enseignants sur les évolutions pédagogiques</p>
-                    <a class="d-block a-txt ml-auto">En savoir +</a>
+                    <a  href="" class="d-block a-txt ml-auto">En savoir +</a>
                 </div>
                 <div class="col h-25 p-0 d-flex background-blue align-items-center">
-                    <a class="d-block a-button w-100 subtitle white">Consulter l'agenda +</a>
+                    <a  href="" class="d-block a-button w-100 subtitle white">Consulter l'agenda +</a>
                 </div>
             </div>
             <div class="col-5 row-cols-1 p-0">
@@ -194,14 +194,14 @@
                     <div class="col">
                         <h4>Préceptorats</h4>
                         <p>Le préceptorat permet de provoquer les rencontres entre les enseignants et les professionnels. Favoriser les nouvelles technologies pour aller vers plus de créativité et décider d’un programme médico-chirurgical opérationnel et innovant. <br>L’objectif est de générer des expériences pédagogiques entre étudiants et enseignants.</p>
-                        <a class="a-txt ml-auto">En savoir +</a>
+                        <a  href="" class="a-txt ml-auto">En savoir +</a>
                     </div>
                 </div>
                 <div class="row h-50 p-5 border-br">
                     <div class="col h-100">
                         <h4>Séminaires</h4>
                         <p>Nos séminaires offrent différentes conférences, formations et travaux pratiques. Ces derniers donnent la possibilité aux professionnels de santé d’enrichir leurs connaissances et de favoriser l’apprentissage de nouvelles techniques pédagogiques. </p>
-                        <a class="a-txt ml-auto">En savoir +</a>
+                        <a  href="" class="a-txt ml-auto">En savoir +</a>
                     </div>
                 </div>
             </div>
@@ -214,7 +214,7 @@
                 <div class="col-4 my-5">
                     <h4>Un simulateur en Réalité augmenté</h4>
                     <p>Retrouvez divers casques de VR, mannequins et simulateur au sein de notre département.</p>
-                    <a class="a-button mt-4">Découvrir</a>
+                    <a  href="" class="a-button mt-4">Découvrir</a>
                     <img class="w-100 mt-4" alt="image article" src="assets/img/article3.jpg">
                 </div>
                 <div class="col-4 position-absolute background-white h-100 z-index-1"></div>
@@ -222,7 +222,7 @@
                     <img class="w-100 mb-4" alt="image article" src="assets/img/article3.jpg">
                     <h4>Un simulateur en Réalité augmenté</h4>
                     <p>Retrouvez divers casques de VR, mannequins et simulateur au sein de notre département.</p>
-                    <a class="a-button mt-4">Découvrir</a>
+                    <a  href="" class="a-button mt-4">Découvrir</a>
                 </div>
             </div>
         </div>
@@ -237,11 +237,11 @@
 						<div class="col-5 background-white p-4">
                             <h2> <span class="hightlight">Les + </span></br> de DUENES</h2>
                             <div class="mt-2">
-                                <div class="d-flex ml-5 my-5"><img class="d-inline" src="assets/img/question.svg"><p class="keywords-light mx-3 my-auto">Aide</p></div>
-                                <div class="d-flex ml-5 my-5"><img class="d-inline" src="assets/img/question.svg"><p class="keywords-light mx-3 my-auto">Conseils</p></div>
-                                <div class="d-flex ml-5 my-5"><img class="d-inline" src="assets/img/question.svg"><p class="keywords-light mx-3 my-auto">Suivis</p></div>
-                                <div class="d-flex ml-5 my-5"><img class="d-inline" src="assets/img/question.svg"><p class="keywords-light mx-3 my-auto">Aide</p></div>
-                                <div class="d-flex ml-5 my-5"><img class="d-inline" src="assets/img/question.svg"><p class="keywords-light mx-3 my-auto">Conseils</p></div>
+                                <div class="d-flex ml-5 my-5"><img  alt="" class="d-inline" src="assets/img/question.svg"><p class="keywords-light mx-3 my-auto">Aide</p></div>
+                                <div class="d-flex ml-5 my-5"><img  alt="" class="d-inline" src="assets/img/question.svg"><p class="keywords-light mx-3 my-auto">Conseils</p></div>
+                                <div class="d-flex ml-5 my-5"><img  alt="" class="d-inline" src="assets/img/question.svg"><p class="keywords-light mx-3 my-auto">Suivis</p></div>
+                                <div class="d-flex ml-5 my-5"><img  alt="" class="d-inline" src="assets/img/question.svg"><p class="keywords-light mx-3 my-auto">Aide</p></div>
+                                <div class="d-flex ml-5 my-5"><img  alt="" class="d-inline" src="assets/img/question.svg"><p class="keywords-light mx-3 my-auto">Conseils</p></div>
                             </div>  
 						</div>
                         <div clas="col-7">

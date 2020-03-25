@@ -54,11 +54,11 @@
                 <div class="offset-1 col-6">
                     <div class="row pt-4">
                         <div class="col-6 p-3">
-                            <img class="icon-formation" src="assets/img/cap.svg">
+                            <img class="icon-formation" src="assets/img/cap.svg" alt="">
                             <h4>Nouvelle approche auprès des étudiants</h4>
                         </div>
                         <div class="col-6 p-3">
-                            <img class="icon-formation" src="assets/img/desktop.svg">
+                            <img class="icon-formation" src="assets/img/desktop.svg" alt="">
                             <h4>Une multitude de ressources numériques.</h4>
                         </div>
                     </div>
@@ -72,14 +72,14 @@
                             <h2><span class="hightlight">Les ateliers</span> à venir</h2>
                         </div>
                         <div class="col-4">
-                            <a class="a-button m-auto">Voir tous les articles</a>
+                            <a  href="" class="a-button m-auto">Voir tous les articles</a>
                         </div>
                     </div>
                     <div class="row justify-content-center py-5">
                         <div class="col-8 d-flex flex-row mb-5">
                             <div class="row">
                                 <div class="col-6 p-0">
-                                    <img class="img-responsive" src="assets/img/article1.jpg">
+                                    <img class="img-responsive" src="assets/img/article1.jpg" alt="">
                                 </div>
                                 <div class="position-relative z-index-1">
                                     <time class="background-blue atelier"><span>13 JAN 2020</span></time>
@@ -98,7 +98,7 @@
                                     <time class="background-blue atelier"><span>13 JAN 2020</span></time>
                                 </div>
                                 <div class="col-6 p-0">
-                                    <img class="img-responsive" src="assets/img/article1.jpg">
+                                    <img class="img-responsive" src="assets/img/article1.jpg" alt="">
                                 </div>
                             </div>
                         </div>

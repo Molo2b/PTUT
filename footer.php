@@ -34,13 +34,13 @@
                                 <div class="col-6">
                                     <ul>
                                         <li>
-                                            <a href="#">DUNS</a>
+                                            <a href="DUENES_quiSommesNous">DUNS</a>
                                         </li>
                                         <li>
-                                            <a href="formation.php">Formation</a>
+                                            <a href="formation_atelier.php">Formation</a>
                                         </li>
                                         <li>
-                                            <a href="formation.php">Ressources</a>
+                                            <a href="ressource_materiel.php">Ressources</a>
                                         </li>
                                     </ul>
                                 </div>
@@ -48,13 +48,13 @@
                                 <div class="col-6">
                                     <ul>
                                         <li>
-                                            <a href="#">Expertise</a>
+                                            <a href="expertise.php">Expertise</a>
                                         </li>
                                         <li>
                                             <a href="formation.php">Réalisation</a>
                                         </li>
                                         <li>
-                                            <a href="formation.php">Article</a>
+                                            <a href="article_actualite.php">Article</a>
                                         </li>
                                         </ul>
                                 </div>
