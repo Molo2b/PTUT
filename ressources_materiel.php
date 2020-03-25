@@ -23,13 +23,37 @@
                 <nav>
                     <ul>
                         <li class="nav-item active">
-                            <a class="nav-link blue uppercase" href="DUENES_quiSommesNous.php">Matériels<span class="sr-only">(current)</span></a>
+                            <a class="nav-link blue uppercase" href="ressources_materiel.php">Matériels<span class="sr-only">(current)</span></a>
+                            <ul class="">
+                                <li class="sub-nav-item">
+                                    <a class="sub-nav-link">Salle Curie</a>
+                                </li>
+                                <li class="sub-nav-item">
+                                    <a class="sub-nav-link">Salle d'enregistrement</a>
+                                </li>
+                                <li class="sub-nav-item">
+                                    <a class="sub-nav-link">Réalitée augmentée</a>
+                                </li>
+                                <li class="sub-nav-item">
+                                    <a class="sub-nav-link">Simulation</a>
+                                </li>
+                            </ul>
                         </li>
                         <li class="nav-item">
-                            <a class="nav-link blue uppercase" href="DUENES_concept.php">Outils numériques</a>
+                            <a class="nav-link blue uppercase" href="#">Outils numériques</a>
+                            <ul class="">
+                                <li class="sub-nav-item">
+                                    <a class="sub-nav-link">Logiciel</a>
+                                </li>
+                            </ul>
                         </li>
                         <li class="nav-item">
-                            <a class="nav-link blue uppercase" href="#">Supports pédagogiques</a>
+                            <a class="nav-link blue uppercase" href="ressources_supports.php">Supports pédagogiques</a>
+                            <ul class="">
+                                <li class="sub-nav-item">
+                                    <a class="sub-nav-link">Diaporama</a>
+                                </li>
+                            </ul>
                         </li>
                     </ul>
                 </nav>
@@ -42,9 +66,9 @@
                     <img class="img-responsive mt-3" src="assets/img/quiSommesNous.png" alt="présentation DUENES">
                 </div>
                 <div class="col-6 background-white p-5 line main-content">
-                    <h2>Atelier</h2>
+                    <h2>Salle Curie</h2>
                     <p><em>DUNS à été créé pour réponse à l’augmentation de l’utilisation des outils numériques dans les formations en santé.</em></p>
-                    <p class="mb-5">Ces enseignements dédiés aux professionnels de santé sont un véritable atout et favorise et incite la réflexion entre enseignants sur les évolutions pédagogiques</p>
+                    <p class="mb-5">Les enseignants des secteurs santé peuvent échanger autour de la pédagogie et du numérique. Equipée d’outils numériques de pointe, entre espaces cosy de co-working, lieu de formation et salle de réunion, les espaces modulables de la salle offrent de nombreuses possibilités pour répondre aux besoins des enseignants.</p>
                 </div>
             </div>
 
@@ -56,7 +80,7 @@
                                 <div class="col-6 p-0">
                                     <img class="img-responsive" src="assets/img/article1.jpg">
                                 </div>
-                                <div class="z-index-1">
+                                <div class="z-index1">
                                     <p class="number position-absolute background-blue"><span>6</span></p>
                                 </div>
                                 <div class="col-6 background-white p-5">
@@ -71,7 +95,7 @@
                                     <h4>TBI</h4>
                                     <p>Le TBI vous permet d’intervenir tactilement et d’enregistrer les modifications directement sur votre ordinateur. Il offre un bon niveau d’interactivité et une meilleure implication des étudiants. </p>
                                 </div>
-                                <div class="z-index-1">
+                                <div class="z-index1">
                                     <p class="number position-absolute background-blue"><span>4</span></p>
                                 </div>
                                 <div class="col-6 p-0">

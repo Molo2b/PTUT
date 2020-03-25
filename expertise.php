@@ -19,17 +19,25 @@
     <div class="row">
         <div class="left-nav col-3">
             <div class="ml-3">
-                <h2 class="ml-3"><span class="hightlight">Formation<span></h2>
+                <h2 class="ml-3"><span class="hightlight">Expertise<span></h2>
                 <nav>
                     <ul>
                         <li class="nav-item active">
-                            <a class="nav-link blue uppercase" href="formation_atelier.php">Ateliers<span class="sr-only">(current)</span></a>
-                        </li>
-                        <li class="nav-item">
-                            <a class="nav-link blue uppercase" href="formation_seminaires.php">Séminaires</a>
-                        </li>
-                        <li class="nav-item">
-                            <a class="nav-link blue uppercase" href="formation_preceptorats.php">Préceptorats</a>
+                            <a class="nav-link blue uppercase" href="DUENES_quiSommesNous.php">Les centres<span class="sr-only">(current)</span></a>
+                            <ul class="">
+                                <li class="sub-nav-item">
+                                    <a class="sub-nav-link">SRV</a>
+                                </li>
+                                <li class="sub-nav-item">
+                                    <a class="sub-nav-link">Simulim</a>
+                                </li>
+                                <li class="sub-nav-item">
+                                    <a class="sub-nav-link">Centre pharmaceutique</a>
+                                </li>
+                                <li class="sub-nav-item">
+                                    <a class="sub-nav-link">Centre de jeux de rôles</a>
+                                </li>
+                            </ul>
                         </li>
                     </ul>
                 </nav>

@@ -23,13 +23,13 @@
                 <nav>
                     <ul>
                         <li class="nav-item active">
-                            <a class="nav-link blue uppercase" href="DUENES_quiSommesNous.php">Qui sommes nous</a>
+                            <a class="nav-link blue uppercase" href="DUENES_quiSommesNous.php">Qui sommes nous<span class="sr-only">(current)</span></a>
                         </li>
                         <li class="nav-item">
-                            <a class="nav-link blue uppercase" href="DUENES_concept.php">Concept<span class="sr-only">(current)</span></a>
+                            <a class="nav-link blue uppercase" href="DUENES_concept.php">Concept</a>
                         </li>
                         <li class="nav-item">
-                            <a class="nav-link blue uppercase" href="#">Equipe</a>
+                            <a class="nav-link blue uppercase" href="DUENES_equipe.php">Equipe</a>
                         </li>
                     </ul>
                 </nav>
@@ -43,7 +43,7 @@
                     <p><em>DUNS à été créé pour réponse à l’augmentation de l’utilisation des outils numériques dans les formations en santé.</em></p>
                     <p class="mb-5">Notre objectif est de vous permettre de faire face aux  nouvelles évolutions pédagogiques en cours et aux  nouvelles attentes technologiques des étudiants.  Ainsi que  des conseils dans l’élaboration de vos ressources pédagogiques numériques.</p>
                 </div>
-                <div class="col-4 mr-auto pl-0 ml-m5 line dots">
+                <div class="col-4 mr-auto pl-0 ml-m5 line dots-r">
                     <img class="img-responsive" src="assets/img/quiSommesNous.png" alt="présentation DUENES">
                 </div>
             </div>

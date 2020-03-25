@@ -15,7 +15,7 @@
                 <a class="nav-link" href="ressources_materiel.php">Ressource</a>
             </li>
             <li class="nav-item">
-                <a class="nav-link" href="#">Expertise</a>
+                <a class="nav-link" href="expertise.php">Expertise</a>
             </li>
             <li class="nav-item">
                 <a class="nav-link" href="action_conception.php">Action</a>

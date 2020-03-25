@@ -39,9 +39,9 @@
         <section class="col-9 p-nav">
             <div class="row align-items-center">
                 <div class="offset-1 col-6 background-white p-5">
-                    <h2>Atelier</h2>
-                    <p><em>DUNS à été créé pour réponse à l’augmentation de l’utilisation des outils numériques dans les formations en santé.</em></p>
-                    <p class="mb-5">Ces enseignements dédiés aux professionnels de santé sont un véritable atout et favorise et incite la réflexion entre enseignants sur les évolutions pédagogiques</p>
+                    <h2>Seminaires</h2>
+                    <p><em>Lors de nos séminaires, nous proposons un large choix de sujets médicaux pour élargir vos connaissances.</em></p>
+                    <p class="mb-5">Grâce à différents travaux pratiques, nous donnons la possibilité aux professionnels de santé d’enrichir leurs connaissances et de favoriser l’apprentissage de nouvelles techniques pédagogiques. </p>
                 </div>
                 <div class="col-4 mr-auto pl-0 ml-m5 line dots-r">
                     <img class="img-responsive" src="assets/img/quiSommesNous.png" alt="présentation DUENES">

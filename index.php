@@ -90,7 +90,7 @@
                             <img class="img-responsive" alt="imageDUENES" src="assets/img/sec2-project.jpg">
 						</div>
 						<div class="col-5 background-blue p-4">
-                            <h2> <span class="hightlight">Les + </span></br> de DUENES</h2>
+                            <h2 class="white"> <span class="hightlight">Les + </span></br> de DUENES</h2>
                             <div class="mt-2">
                                 <div class="d-flex ml-5 my-5"><img class="d-inline" src="assets/img/question.svg"><p class="keywords-light mx-3 my-auto">Aide</p></div>
                                 <div class="d-flex ml-5 my-5"><img class="d-inline" src="assets/img/question.svg"><p class="keywords-light mx-3 my-auto">Conseils</p></div>
@@ -168,66 +168,67 @@
         </div>   
     </section>
 
-    <section class="container-fluid no-gutters py-5">
-        <div class="row no-gutters vh-75">
-            <div class="col-3 p-0">
+    <section class="container-fluid no-gutters pb-5 px-0">
+        <div class="row">
+            <div class="col-4 p-0">
                 <div class="row h-75">
                     <img class="img-responsive" alt="phootographie d'une formation numérique" src="assets/img/article3.jpg">
                 </div>
                 <div class="row h-25 background-white">
-                    <h2><span class="hightlight">Les formations </span><br>proposées par duenes</h2>
+                    <h2 class="m-auto"><span class="hightlight">Les formations </span><br>proposées par duenes</h2>
                 </div>
             </div>
 
-            <div class="col-4 row-cols-1 p-0">
-                <div class="col h-75">
+            <div class="col-3 row-cols-1">
+                <div class="col h-75 p-5 border-r">
                     <h4>Ateliers</h4>
                     <p>Nous proposons des ateliers numériques pour développer vos capacités et connaissances digitales. Ces enseignements dédiés aux professionnels de santé sont un véritable atout et favorise et incite la réflexion entre enseignants sur les évolutions pédagogiques</p>
-                    <a class="d-block a-text">En savoir +</a>
+                    <a class="d-block a-txt ml-auto">En savoir +</a>
                 </div>
-                <div class="col h-25">
-                    <a class="d-block a-button h-100">Consulter l'agenda +</a>
+                <div class="col h-25 p-0 d-flex background-blue align-items-center">
+                    <a class="d-block a-button w-100 subtitle white">Consulter l'agenda +</a>
                 </div>
             </div>
             <div class="col-5 row-cols-1 p-0">
-                <div class="row h-50">
+                <div class="row h-50 p-5 border-br">
                     <div class="col">
                         <h4>Préceptorats</h4>
                         <p>Le préceptorat permet de provoquer les rencontres entre les enseignants et les professionnels. Favoriser les nouvelles technologies pour aller vers plus de créativité et décider d’un programme médico-chirurgical opérationnel et innovant. <br>L’objectif est de générer des expériences pédagogiques entre étudiants et enseignants.</p>
-                        <a class="a-text">En savoir +</a>
+                        <a class="a-txt ml-auto">En savoir +</a>
                     </div>
                 </div>
-                <div class="row h-50">
+                <div class="row h-50 p-5 border-br">
                     <div class="col h-100">
                         <h4>Séminaires</h4>
                         <p>Nos séminaires offrent différentes conférences, formations et travaux pratiques. Ces derniers donnent la possibilité aux professionnels de santé d’enrichir leurs connaissances et de favoriser l’apprentissage de nouvelles techniques pédagogiques. </p>
-                        <a class="a-text">En savoir +</a>
+                        <a class="a-txt ml-auto">En savoir +</a>
                     </div>
                 </div>
             </div>
         </div>
     </section>
 
-    <section class="container-fluid no-gutters py-5">
+    <section class="container-fluid no-gutters py-5 mb-5">
         <div class="container">
             <div class="row no-gutters justify-content-around">
-                <div class="col-4">
+                <div class="col-4 my-5">
                     <h4>Un simulateur en Réalité augmenté</h4>
                     <p>Retrouvez divers casques de VR, mannequins et simulateur au sein de notre département.</p>
-                    <a class="a-button">Découvrir</a>
-                    <img class="w-100" alt="image article" src="assets/img/article3.jpg">
+                    <a class="a-button mt-4">Découvrir</a>
+                    <img class="w-100 mt-4" alt="image article" src="assets/img/article3.jpg">
                 </div>
-                <div class="col-4 offset-1">
-                    <img class="w-100" alt="image article" src="assets/img/article3.jpg">
+                <div class="col-4 position-absolute background-white h-100 z-index-1"></div>
+                <div class="col-4 my-5 offset-1">
+                    <img class="w-100 mb-4" alt="image article" src="assets/img/article3.jpg">
                     <h4>Un simulateur en Réalité augmenté</h4>
                     <p>Retrouvez divers casques de VR, mannequins et simulateur au sein de notre département.</p>
-                    <a class="a-button">Découvrir</a>
+                    <a class="a-button mt-4">Découvrir</a>
                 </div>
             </div>
         </div>
     </section>
 
-    <section class="container-fluid">
+    <section class="container-fluid pt-5 mt-5">
         <div class="row">
                 
             <div class="col-7 p-0">

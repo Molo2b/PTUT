@@ -23,7 +23,7 @@
                 <nav>
                     <ul>
                         <li class="nav-item active">
-                            <a class="nav-link blue uppercase" href="formation_atelier.php">Ateliers<span class="sr-only">(current)</span></a>
+                            <a class="nav-link blue uppercase" href="formation_atelier.php">Atelier<span class="sr-only">(current)</span></a>
                         </li>
                         <li class="nav-item">
                             <a class="nav-link blue uppercase" href="formation_seminaires.php">Séminaires</a>
@@ -39,9 +39,9 @@
         <section class="col-9 p-nav">
             <div class="row align-items-center">
                 <div class="offset-1 col-6 background-white p-5">
-                    <h2>Atelier</h2>
-                    <p><em>DUNS à été créé pour réponse à l’augmentation de l’utilisation des outils numériques dans les formations en santé.</em></p>
-                    <p class="mb-5">Ces enseignements dédiés aux professionnels de santé sont un véritable atout et favorise et incite la réflexion entre enseignants sur les évolutions pédagogiques</p>
+                    <h2>Préceptorats</h2>
+                    <p><em>Ce préceptorat vise à utiliser les expertises des sciences de la santé en matière d’éducation. </em></p>
+                    <p class="mb-5">Il vise aussi à créer des liens de collaboration et de partenariat entre les enseignants et les étudiants pour la mise en place d’activités pédagogiques. </p>
                 </div>
                 <div class="col-4 mr-auto pl-0 ml-m5 line dots-r">
                     <img class="img-responsive" src="assets/img/quiSommesNous.png" alt="présentation DUENES">

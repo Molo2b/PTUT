@@ -29,7 +29,7 @@
                             <a class="nav-link blue uppercase" href="DUENES_concept.php">Concept</a>
                         </li>
                         <li class="nav-item">
-                            <a class="nav-link blue uppercase" href="#">Equipe</a>
+                            <a class="nav-link blue uppercase" href="DUENES_equipe.php">Equipe</a>
                         </li>
                     </ul>
                 </nav>
@@ -44,7 +44,7 @@
                     <p class="mb-5">DUNS est le Département Universitaire Numérique en Santé qui s’est mis en place en 2014 afin d’accompagner l’ensemble des professionnels du secteur santé à l’Université de Paris et de simplifier la création de 
 projets pédagogiques et numériques dans ce domaine.</p>
                 </div>
-                <div class="col-4 mr-auto pl-0 ml-m5 line dots">
+                <div class="col-4 mr-auto pl-0 ml-m5 line dots-r">
                     <img class="img-responsive" src="assets/img/quiSommesNous.png" alt="présentation DUENES">
                 </div>
             </div>

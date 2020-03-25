@@ -34,7 +34,7 @@ body {
   padding-left: 15% !important;
   padding-right: 20% !important; }
 
-.z-index-1 {
+.z-index1 {
   z-index: 1; }
 
 h1 {
@@ -64,6 +64,9 @@ h4 {
 .blue {
   color: #7AA5D3; }
 
+a {
+  cursor: pointer; }
+
 p {
   font-family: "Lato", sans-serif;
   font-weight: 300;
@@ -89,7 +92,7 @@ p {
 
 .subtitle {
   opacity: 0.78;
-  font-family: Akrobat-Bold;
+  font-family: "Akrobat";
   font-size: 30px;
   font-weight: bold;
   line-height: 1.23;
@@ -124,7 +127,8 @@ p {
     text-align: center;
     width: 75%; }
   .a-txt {
-    color: #7AA5D3; }
+    color: #7AA5D3 !important;
+    text-align: right; }
     .a-txt :after {
       content: "+";
       width: 22px;
@@ -155,18 +159,18 @@ p {
   left: -14%; }
 
 .dots-r::after {
-  content: url(images/pointsGris.png);
   position: absolute;
   top: -9%;
-  right: -10%;
-  z-index: -1; }
+  z-index: -1;
+  content: url(images/pointsGris.png);
+  right: -10%; }
 
 .dots-l::after {
-  content: url(images/pointsGris.png);
   position: absolute;
   top: -9%;
-  right: 43%;
-  z-index: -1; }
+  z-index: -1;
+  content: url(images/pointsGris.png);
+  right: 43%; }
 
 @font-face {
   font-family: "Akrobat";
@@ -235,6 +239,13 @@ nav a {
   padding-top: 180px;
   height: 100vh; }
 
+.sub-nav-link {
+  padding: 0.5rem 1rem;
+  color: rgba(28, 28, 28, 0.5) !important;
+  text-transform: none;
+  font-size: 21px;
+  font-family: "Akrobat"; }
+
 .footer {
   height: 390px;
   background-color: #7AA5D3;
@@ -264,6 +275,9 @@ footer p {
   right: 0;
   bottom: 0;
   height: 20%; }
+
+.white {
+  color: #FFFFFF; }
 
 /*!
  * Bootstrap v4.4.1 (https://getbootstrap.com/)
@@ -7479,9 +7493,41 @@ cite {
   margin: 1rem 0;
   cursor: pointer; }
 
+.border-r {
+  border-right: 1px solid rgba(28, 28, 28, 0.2); }
+
+.border-br {
+  border-bottom: 1px solid rgba(28, 28, 28, 0.2);
+  border-right: 1px solid rgba(28, 28, 28, 0.2); }
+
+.z-index-1 {
+  z-index: -1; }
+
 .sub-container {
   margin-top: -8%;
   padding-top: 6%; }
+
+.bold {
+  font-family: "Akrobat-SemiBold";
+  font-size: 21px;
+  letter-spacing: 0.42px;
+  color: #1C1C1C; }
+
+p {
+  font-family: "Lato", sans-serif;
+  font-weight: 300;
+  font-size: 16px;
+  letter-spacing: 0.42px;
+  color: #1C1C1C; }
+
+.white-box {
+  background-color: #FFFFFF;
+  padding-top: 40px;
+  padding-bottom: 60px;
+  margin-left: -70px; }
+
+.team-image {
+  z-index: 1; }
 
 .atelier {
   top: 50%;

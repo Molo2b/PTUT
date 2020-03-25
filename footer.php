@@ -8,13 +8,11 @@
                         <h4 class="white">NEWSLETTER</h4>
                     </div>
                 </div>
-    
-
             </div>
 
              <div class="container mt-5">
                  <div class=row>
-                    <div class="col-4">
+                    <div class="col-4 col-md-3">
                         <h4 class="white">CONTACT</h4>
                         <div class="mt-3 text">
                             <ul>

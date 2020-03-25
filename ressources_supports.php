@@ -23,13 +23,37 @@
                 <nav>
                     <ul>
                         <li class="nav-item active">
-                            <a class="nav-link blue uppercase" href="DUENES_quiSommesNous.php">Matériels</a>
+                            <a class="nav-link blue uppercase" href="ressources_materiel.php">Matériels<span class="sr-only">(current)</span></a>
+                            <ul class="">
+                                <li class="sub-nav-item">
+                                    <a class="sub-nav-link">Salle Curie</a>
+                                </li>
+                                <li class="sub-nav-item">
+                                    <a class="sub-nav-link">Salle d'enregistrement</a>
+                                </li>
+                                <li class="sub-nav-item">
+                                    <a class="sub-nav-link">Réalitée augmentée</a>
+                                </li>
+                                <li class="sub-nav-item">
+                                    <a class="sub-nav-link">Simulation</a>
+                                </li>
+                            </ul>
                         </li>
                         <li class="nav-item">
-                            <a class="nav-link blue uppercase" href="DUENES_concept.php">Outils numériques</a>
+                            <a class="nav-link blue uppercase" href="#">Outils numériques</a>
+                            <ul class="">
+                                <li class="sub-nav-item">
+                                    <a class="sub-nav-link">Logiciel</a>
+                                </li>
+                            </ul>
                         </li>
                         <li class="nav-item">
-                            <a class="nav-link blue uppercase" href="#">Supports pédagogiques<span class="sr-only">(current)</span></a>
+                            <a class="nav-link blue uppercase" href="ressources_supports.php">Supports pédagogiques</a>
+                            <ul class="">
+                                <li class="sub-nav-item">
+                                    <a class="sub-nav-link">Diaporama</a>
+                                </li>
+                            </ul>
                         </li>
                     </ul>
                 </nav>
@@ -53,7 +77,7 @@
                     <h4>Collaboration interprofessionnelle</h4>
                     <p>Les transmissions représentent un élément clé de la prise en charge pluriprofessionnelle de patients, surtout en milieu hospitalier.</p>
                 </div>
-                <div class="z-index-1">
+                <div class="z-index1">
                     <a class="download position-relative background-blue"><img class="img-responsive p-4" src="assets/img/download.png"></a>
                 </div>
             </section>
@@ -62,7 +86,7 @@
                     <h4>Collaboration interprofessionnelle</h4>
                     <p>Les transmissions représentent un élément clé de la prise en charge pluriprofessionnelle de patients, surtout en milieu hospitalier.</p>
                 </div>
-                <div class="z-index-1">
+                <div class="z-index1">
                     <a class="download position-relative background-blue"><img class="img-responsive p-4" src="assets/img/download.png"></a>
                 </div>
             </section>

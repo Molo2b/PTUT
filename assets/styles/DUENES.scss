@@ -2,3 +2,29 @@
     margin-top: -8%;
     padding-top: 6%;
 }
+
+.bold {
+    font-family: "Akrobat-SemiBold";
+    font-size: 21px;
+    letter-spacing: 0.42px;
+    color: $black;
+}
+
+p {
+    font-family: "Lato", sans-serif;
+    font-weight: 300;
+    font-size: 16px;
+    letter-spacing: 0.42px;
+    color: $black;
+}
+
+.white-box {
+    background-color: $white;
+    padding-top: 40px;
+    padding-bottom: 60px;
+    margin-left: -70px;
+}
+
+.team-image {
+    z-index: 1;
+}
